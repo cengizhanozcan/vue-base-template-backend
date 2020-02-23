@@ -108,11 +108,6 @@ fabric.properties
 .idea/httpRequests
 
 .gitignore
-.mvn/
-mvnw
-mvnw.cmd
-pom.xml
-src/
 
 pom.xml.tag
 pom.xml.releaseBackup
